@@ -13,8 +13,7 @@ A fun, elegant, and realistic coin-flipping app to help you make quick decisions
 - 🎵 Sound effects for flipping and result
 - 📜 Save flip history with reason and result
 - 🧠 Decide by luck with a clean and smooth UI
-- 🌓 Dark mode support
-- 🇺🇸 English + Vietnamese support
+
 
 ---
 
