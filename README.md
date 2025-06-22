@@ -20,11 +20,11 @@ A fun, elegant, and realistic coin-flipping app to help you make quick decisions
 
 ## 📱 Screenshots
 
-| Coin Flip | Result | Save History |
+| Quick Flip | Decision Flip | Add Reason|
 |-----------|--------|---------------|
 | ![Flip](2.jpg) | ![Result](3.jpg) | ![History](4.jpg) |
 
-| Settings | Dark Mode |
+| Result | History |
 |----------|------------|
 | ![Settings](5.jpg) | ![Dark Mode](6.png) |
 
