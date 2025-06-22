@@ -1,16 +1,51 @@
-# lucky_coin_flip
+# Flip A Coin: Lucky Coin
 
-A new Flutter project.
+A fun, elegant, and realistic coin-flipping app to help you make quick decisions or just play with chance. Whether you want to settle a bet or leave your fate to randomness, this app has you covered.
 
-## Getting Started
+🎯 [Download on the App Store](https://apps.apple.com/us/app/flip-a-coin-lucky-coin/id6747534846?platform=iphone)  
+📽️ [Watch the demo on YouTube](https://youtube.com/shorts/U45CLmqQzQY)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🪙 Realistic coin flip animation
+- 🎵 Sound effects for flipping and result
+- 📜 Save flip history with reason and result
+- 🧠 Decide by luck with a clean and smooth UI
+- 🌓 Dark mode support
+- 🇺🇸 English + Vietnamese support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Screenshots
+
+| Coin Flip | Result | Save History |
+|-----------|--------|---------------|
+| ![Flip](2.jpg) | ![Result](3.jpg) | ![History](4.jpg) |
+
+| Settings | Dark Mode |
+|----------|------------|
+| ![Settings](5.jpg) | ![Dark Mode](6.png) |
+
+---
+
+## 🛠️ Built With
+
+- **Flutter** – cross-platform UI framework
+- **Hive** – lightweight local database
+- **BLoC** – state management
+- **audioplayers** – play sound effects
+- **responsive_sizer** – responsive layout for all devices
+
+---
+
+## 🚀 Getting Started
+
+To run this app locally:
+
+```bash
+git clone https://github.com/your-username/flip-a-coin.git
+cd flip-a-coin
+flutter pub get
+flutter run
