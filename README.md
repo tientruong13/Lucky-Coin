@@ -44,7 +44,7 @@ A fun, elegant, and realistic coin-flipping app to help you make quick decisions
 To run this app locally:
 
 ```bash
-git clone https://github.com/your-username/flip-a-coin.git
+git clone [https://github.com/tientruong13/Lucky-Coin.git]
 cd flip-a-coin
 flutter pub get
 flutter run
